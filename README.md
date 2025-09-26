@@ -41,7 +41,3 @@ Implement `Main.Disc` interface for different disc types:
 - The game begins with four discs in the center.
 - Three types of discs exist: Regular, Unflippable, and Bomb (special flipping rules apply).
 - The game ends when no legal moves are available for the next player.
-
----
-
-Good luck!
